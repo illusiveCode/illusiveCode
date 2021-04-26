@@ -15,14 +15,14 @@ Twitter: https://twitter.com/illusiveCode
 ---
 
 🧰 Toolbox <br> <br>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS" width="45px" height="45px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="35px" height="35px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" width="40px" height="40px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS" width="85px" height="85px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" width="80px" height="80px"/>
 
 
 ---
