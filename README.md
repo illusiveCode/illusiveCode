@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raza
-<small>Developing myself as a Frontend Developer | Student at OpenClassrooms | HTML, CSS, JS | Learning in Public!</small>
+<small>Developing myself as a Frontend Developer | OpenClassrooms Alumni | HTML, CSS, JS | Learning in Public!</small>
 <img src="https://images.unsplash.com/photo-1546457028-e8f71fcabc26?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height="500px"/>
 
 <hr>
