@@ -16,7 +16,7 @@ Twitter: https://twitter.com/illusiveCode
 
 🧰 Toolbox <br> <br>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="80px" height="80px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS" width="85px" height="85px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
