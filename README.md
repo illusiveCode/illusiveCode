@@ -1,16 +1,18 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raza
 <small>Developing myself as a Frontend Developer | OpenClassrooms Alumni | HTML, CSS, JS | Learning in Public!</small>
-<img src="https://images.unsplash.com/photo-1546457028-e8f71fcabc26?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height="500px"/>
+<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height="500px"/>
 
 <hr>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/illusiveCode?style=social)       ![Twitch Status](https://img.shields.io/twitch/status/illusivecode?style=social)
 
 <p>The moment I got "Hello World!" to appear in the console, I knew that very moment that this has been my calling. <br>Web development is not something I see as 'just a job', it's something that engages me to be creative and <br>to bring that creativity out for others to experience. I just want to keep learning and improve my skills<br> by collaborating with others in this industry! <em>I often stream on twitch while coding &#9786;</em></p>
+<p><strong>DISCLAIMER: NOT ALL OF MY WORK IS ON GITHUB</strong></p>
 <br>
 Connect with me on here &#8595;<br>
-LinkedIn: https://www.linkedin.com/in/frontend-developer-muhammad-raza/
-Twitter: https://twitter.com/illusiveCode
+<a href="https://www.linkedin.com/in/frontend-developer-muhammad-raza/">LinkedIn</a> 
+</br>
+<a href="https://twitter.com/illusiveCode">Twitter</a>
 
 ---
 
@@ -20,7 +22,7 @@ Twitter: https://twitter.com/illusiveCode
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" width="80px" height="80px"/>
 
