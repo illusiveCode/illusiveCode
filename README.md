@@ -10,9 +10,9 @@
 <p><strong>DISCLAIMER: NOT ALL OF MY WORK IS ON GITHUB</strong></p>
 <br>
 Connect with me on here &#8595;<br>
-<a href="https://www.linkedin.com/in/frontend-developer-muhammad-raza/" target="blank">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/frontend-developer-muhammad-raza/" target="_blank">LinkedIn</a> 
 </br>
-<a href="https://twitter.com/illusiveCode" target="blank">Twitter</a>
+<a href="https://twitter.com/illusiveCode" target="_blank">Twitter</a>
 
 ---
 
