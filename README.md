@@ -17,14 +17,17 @@ Connect with me on here &#8595;<br>
 ---
 
 🧰 Toolbox <br> <br>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="85px" height="85px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" width="85px" height="85px"/>
 
 
 ---
