@@ -19,7 +19,8 @@ Connect with me on here &#8595;<br>
 🧰 Toolbox <br> <br>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" width="85px" height="85px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="80px" height="75px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" title="VueJS" width="75px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="85px" height="85px"/>
