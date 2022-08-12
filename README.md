@@ -6,7 +6,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/illusiveCode?style=social)       ![Twitch Status](https://img.shields.io/twitch/status/illusivecode?style=social)
 
-<p>The moment I got "Hello World!" to appear in the console, I knew that very moment that this has been my calling. <br>Web development is not something I see as 'just a job', it's something that engages me to be creative and <br>to bring that creativity out for others to experience. I just want to keep learning and improve my skills<br> by collaborating with others in this industry! <em>I often stream on twitch while coding &#9786;</em></p>
+<p>The moment I got "Hello World!" to appear in the console, I knew that very moment that this has been my calling. <br>Web development is not something I see as 'just a job', it's something that engages me to be creative and <br>to bring that creativity out for others to experience. I just want to keep learning and improve my skills<br> by collaborating with others in this industry!</p>
 <p><strong>DISCLAIMER: NOT ALL OF MY WORK IS ON GITHUB</strong></p>
 <br>
 Connect with me on here &#8595;<br>
