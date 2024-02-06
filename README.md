@@ -24,10 +24,9 @@ Connect with me on LinkedIn &#8595;<br>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" width="85px" height="85px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" width="85px" height="85px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="80px" height="80px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" width="85px" height="85px"/>
 
 
