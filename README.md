@@ -29,8 +29,6 @@ Connect with me on LinkedIn &#8595;<br>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" width="80px" height="80px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" width="85px" height="85px"/>
 
-
----
 ---
 
 ## &#x1f4c8; My GitHub Stats
