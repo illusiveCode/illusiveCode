@@ -6,7 +6,7 @@
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/illusiveCode?style=social)       ![Twitch Status](https://img.shields.io/twitch/status/illusivecode?style=social) -->
 
-<p>The moment I got "Hello World!" to appear in the console, I knew that very moment that this has been my calling. <br>Web development is not something I see as 'just a job', it's something that engages me to be creative and <br>to bring that creativity out for others to experience. I just want to keep learning and improve my skills<br> by collaborating with others in this industry!</p>
+<p>The first time I saw "Hello World!" appear in the console, I knew I’d found my path. Web development became more than just a skill—it felt like a perfect fit, combining technical problem-solving with a creative outlet. The ability to build something functional and visually engaging for others to interact with is incredibly rewarding to me. This field continually drives me to learn, push my limits, and collaborate with others who share the same passion for building meaningful digital experiences. I’m motivated by the idea of growing my skills alongside a team that values innovation and quality, always looking to create something impactful together.</p>
 <p><strong>DISCLAIMER: NOT ALL OF MY WORK IS ON GITHUB</strong></p>
 <br>
 Connect with me on LinkedIn &#8595;<br>
