@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="30px">, I'm Raza
-<small>Developing myself as a Frontend Developer | OpenClassrooms Alumni | HTML, CSS, JS | Learning in Public!</small>
+<small>Frontend Developer | HTML, CSS, TypeScript, ReactJS | Driven by Design</small>
 <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height="500px"/>
 
 <hr>
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/illusiveCode?style=social)       ![Twitch Status](https://img.shields.io/twitch/status/illusivecode?style=social) -->
 
-<p>The first time I saw "Hello World!" appear in the console, I knew I’d found my path. Web development became more than just a skill—it felt like a perfect fit, combining technical problem-solving with a creative outlet. The ability to build something functional and visually engaging for others to interact with is incredibly rewarding to me. This field continually drives me to learn, push my limits, and collaborate with others who share the same passion for building meaningful digital experiences. I’m motivated by the idea of growing my skills alongside a team that values innovation and quality, always looking to create something impactful together.</p>
+<p>Frontend Developer building web experiences that people actually want to use; combining 4+ years of React, Next.js, and TypeScript proficiency with an obsession for accessibility and clean, maintainable code. Currently contributing to high traffic e-commerce platforms by implementing the rapid delivery of features, developing responsive interfaces on par with industry, and making sure all the resultant production level code is thoroughly peer reviewed and unit tested in Scrum cycles. Experienced in large, complex Agile development environments, including work in a monorepo environment with over 70 developers, where the task was translating design specifications into reusable and sustainable components.</p>
 <p><strong>DISCLAIMER: NOT ALL OF MY WORK IS ON GITHUB</strong></p>
 <br>
 Connect with me on LinkedIn &#8595;<br>
